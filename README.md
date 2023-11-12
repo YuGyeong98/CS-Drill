@@ -23,3 +23,6 @@ https://mfamcs.netlify.app/
 3. (면접 예상 질문)
 4. 참고 Url
 ```
+
+### [이슈 생성 방법](https://github.com/YuGyeong98/CS-Drill/wiki/%EC%9D%B4%EC%8A%88-%EC%83%9D%EC%84%B1-%EB%B0%A9%EB%B2%95)
+### [Projects 확인](https://github.com/users/YuGyeong98/projects/3)
